@@ -1,8 +1,4 @@
 # CommitHelper
-<<<<<<< HEAD
-# commit
-=======
->>>>>>> 42299f3 ([RELEASE] v1.0 - first stable build)
 
 A Bash script that brings structure and consistency to your Git commit messages — right from the terminal. Look up any commit type, see when to use it, and get a ready-to-copy example in seconds.
 
